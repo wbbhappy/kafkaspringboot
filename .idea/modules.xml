@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kafka-spring.iml" filepath="$PROJECT_DIR$/kafka-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkaspringboot.iml" filepath="$PROJECT_DIR$/kafkaspringboot.iml" />
     </modules>
   </component>
 </project>

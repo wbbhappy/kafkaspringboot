@@ -1,4 +1,4 @@
-package org.niugang.test;
+package com.niugang.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
